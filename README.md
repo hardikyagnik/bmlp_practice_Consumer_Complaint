@@ -7,3 +7,4 @@
 > ### **Book** **Repository**
 > https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines
 
+Reading: Building Machine Learning Pipelines by Hannes Hapke and Catherine Nelson
